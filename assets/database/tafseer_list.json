@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "التفسير الميسر",
+        "language": "ar",
+        "author": "نخبة من العلماء",
+        "book_name": "التفسير الميسر",
+        "local_path": "tafseer/tafseer_almyasir.json"
+    },
+    {
+        "id": 2,
+        "name": "تفسير الجلالين",
+        "language": "ar",
+        "author": "جلال الدين المحلي و السيوطي",
+        "book_name": "تفسير الجلالين",
+        "local_path": "tafseer/tafseer_aljalalain.json"
+    },
+    {
+        "id": 4,
+        "name": "تفسير ابن كثير",
+        "language": "ar",
+        "author": "عماد الدين أبي الفداء إسماعيل بن كثير القرشي",
+        "book_name": "تفسير القرآن العظيم",
+        "local_path": "tafseer/tafseer_ibn_qaseer.json"
+    },
+    {
+        "id": 5,
+        "name": "تفسير الوسيط لطنطاوي",
+        "language": "ar",
+        "author": "محمد سيد طنطاوي",
+        "book_name": "التفسير الوسيط للقرآن الكريم",
+        "local_path": "tafseer/tafseer_alwaseet.json"
+    },
+    {
+        "id": 6,
+        "name": "تفسير البغوي",
+        "language": "ar",
+        "author": "الحسين بن مسعود البغوي أبو محمد",
+        "book_name": "معالم التنزيل",
+        "local_path": "tafseer/tafseer_al_baghwi.json"
+    },
+    {
+        "id": 7,
+        "name": "تفسير القرطبي",
+        "language": "ar",
+        "author": "أبو عبد الله محمد بن أحمد الأنصاري القرطبي",
+        "book_name": "الجامع لأحكام القرآن",
+        "local_path": "tafseer/tafseer_al_kartabi.json"
+    },
+    {
+        "id": 8,
+        "name": "تفسير الطبري",
+        "language": "ar",
+        "author": "الإمام أبو جعفر الطبري",
+        "book_name": "جامع البيان في تأويل القرآن",
+        "local_path": "tafseer/tafseer_al_tibri.json"
+    },
+    {
+        "id": 9,
+        "name": "مفاتيح الغيب للرازي",
+        "language": "ar",
+        "author": "الفخر الرازي",
+        "book_name": "",
+        "local_path": "tafseer/tafseer_al_razi.json"
+    },
+    {
+        "id": 10,
+        "name": "التحرير والتنوير لابن عاشور",
+        "language": "ar",
+        "author": "ابن عاشور",
+        "book_name": "",
+        "local_path": "tafseer/tafseer_al_ibn-e-asoor.json"
+    },
+    {
+        "id": 11,
+        "name": "Tafsir Ibn Kathir (abridged)",
+        "language": "eng",
+        "author": "Hafiz Ibn Kathir",
+        "book_name": "",
+        "local_path": "tafseer/eng_tafseer/tafsir_Ibn_kathir.json"
+    },
+    {
+        "id": 12,
+        "name": "Tazkirul Quran(Maulana Wahiduddin Khan)",
+        "language": "eng",
+        "author": "Maulana Wahid Uddin Khan",
+        "book_name": "",
+        "local_path": "tafseer/eng_tafseer/tafsir_maulana_wahiduddin_khan.json"
+    },
+    {
+        "id": 13,
+        "name": "Tanwîr al-Miqbâs min Tafsîr Ibn ‘Abbâs",
+        "language": "eng",
+        "author": "Tanwîr al-Miqbâs min Tafsîr Ibn ‘Abbâs",
+        "book_name": "",
+        "local_path": "tafseer/eng_tafseer/tafsir-ibn-abbas.json"
+    },
+    {
+        "id": 14,
+        "name": "Al-Jalalayn",
+        "language": "eng",
+        "author": "Al-Jalalayn",
+        "book_name": "",
+        "local_path": "tafseer/eng_tafseer/tafsir_al_jalalayn.json"
+    },
+    {
+        "id": 15,
+        "name": "Maarif-ul-Quran",
+        "language": "eng",
+        "author": "Mufti Muhammad Shafi",
+        "book_name": "",
+        "local_path": "tafseer/eng_tafseer/tafsir_mufti_muhammad_shafi.json"
+    },
+    {
+        "id": 16,
+        "name": "ابن عجيبة",
+        "language": "ar",
+        "author": "عجيب الحسن",
+        "book_name": "",
+        "local_path": "tafseer/tafseer_ibn_ajiba.json"
+    },
+    {
+        "id": 17,
+        "name": "إعراب القرآن",
+        "language": "ar",
+        "author": "لمحمود الصافي",
+        "book_name": "",
+        "local_path": "tafseer/full_errab_mahmoud_safi_35m.json"
+    }
+]

@@ -1,0 +1,5 @@
+part of '../../core.dart';
+
+abstract class EnvKeys {
+static const String tokenTickers = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyYWRlcnZlcnNlX3Byb2ZpbGUiLCJzdWIiOjgsImVtYWlsIjoidHJhZGVydmVyc2VfcHJvZmlsZUBnbWFpbC5jb20iLCJpYXQiOjE3NTAzNDEyMzEsImV4cCI6MjExMDM0MTIzMX0.E4BCXIXsIQWaTiwzTics6jvrQvZ6LZsSlYQ1vdnovus';
+}

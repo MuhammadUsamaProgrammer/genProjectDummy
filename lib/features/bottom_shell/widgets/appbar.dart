@@ -23,7 +23,7 @@ Widget appBarWidget() {
             },
             child: Padding(
               padding: const EdgeInsets.all(15.0),
-              child: Assets.images.bead.svg(
+              child: Assets.images.bead.image(
                 width: 24,
                 height: 24,
                 color: AppColors.textColor,
@@ -53,7 +53,7 @@ Widget appBarWidget() {
           actions: [
             Padding(
               padding: const EdgeInsets.only(right: 8.0),
-              child: Assets.images.bead.svg(
+              child: Assets.images.bead.image(
                 width: 24,
                 height: 24,
                 color: AppColors.textColor,
